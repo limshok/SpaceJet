@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Models\\Asteroids.Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroid.Description\\Asteroid.Description.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroid.Description\\Asteroid.Description.csproj",
+        "projectName": "Asteroid.Description",
+        "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroid.Description\\Asteroid.Description.csproj",
+        "packagesPath": "C:\\Users\\vlad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroid.Description\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Utility\\Asteroids.Utility.csproj": {
+                "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Utility\\Asteroids.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\vlad\\.dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Models\\Asteroids.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Models\\Asteroids.Models.csproj",
+        "projectName": "Asteroids.Models",
+        "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Models\\Asteroids.Models.csproj",
+        "packagesPath": "C:\\Users\\vlad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroid.Description\\Asteroid.Description.csproj": {
+                "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroid.Description\\Asteroid.Description.csproj"
+              },
+              "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Utility\\Asteroids.Utility.csproj": {
+                "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Utility\\Asteroids.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\vlad\\.dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Utility\\Asteroids.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Utility\\Asteroids.Utility.csproj",
+        "projectName": "Asteroids.Utility",
+        "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Utility\\Asteroids.Utility.csproj",
+        "packagesPath": "C:\\Users\\vlad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\vlad\\.dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

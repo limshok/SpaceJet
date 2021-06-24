@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.AsteroidsProject.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\vlad\Desktop\Temp\AsteroidsProject\.idea\.idea.AsteroidsProject\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

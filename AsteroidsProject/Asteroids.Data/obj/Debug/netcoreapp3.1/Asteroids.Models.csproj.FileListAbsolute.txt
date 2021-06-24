@@ -1,0 +1,14 @@
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\bin\Debug\netcoreapp3.1\Asteroids.Models.deps.json
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\bin\Debug\netcoreapp3.1\Asteroids.Models.dll
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\bin\Debug\netcoreapp3.1\Asteroids.Models.pdb
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\obj\Debug\netcoreapp3.1\Asteroids.Models.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\obj\Debug\netcoreapp3.1\Asteroids.Models.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\obj\Debug\netcoreapp3.1\Asteroids.Models.AssemblyInfoInputs.cache
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\obj\Debug\netcoreapp3.1\Asteroids.Models.AssemblyInfo.cs
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\obj\Debug\netcoreapp3.1\Asteroids.Models.dll
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\obj\Debug\netcoreapp3.1\Asteroids.Models.pdb
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\bin\Debug\netcoreapp3.1\Asteroids.Utility.dll
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\bin\Debug\netcoreapp3.1\Asteroids.Utility.pdb
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\obj\Debug\netcoreapp3.1\Asteroids.Models.csproj.CopyComplete
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\bin\Debug\netcoreapp3.1\Asteroid.Description.dll
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Models\bin\Debug\netcoreapp3.1\Asteroid.Description.pdb

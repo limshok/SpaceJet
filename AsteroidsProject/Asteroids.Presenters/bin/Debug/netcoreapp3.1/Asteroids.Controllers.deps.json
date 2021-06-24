@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asteroids.Controllers/1.0.0": {
+        "dependencies": {
+          "Asteroids.Core": "1.0.0",
+          "Asteroids.Models": "1.0.0",
+          "Asteroids.Views": "1.0.0"
+        },
+        "runtime": {
+          "Asteroids.Controllers.dll": {}
+        }
+      },
+      "Asteroid.Description/1.0.0": {
+        "dependencies": {
+          "Asteroids.Utility": "1.0.0"
+        },
+        "runtime": {
+          "Asteroid.Description.dll": {}
+        }
+      },
+      "Asteroids.Core/1.0.0": {
+        "dependencies": {
+          "Asteroid.Description": "1.0.0",
+          "Asteroids.Models": "1.0.0",
+          "Asteroids.Views": "1.0.0"
+        },
+        "runtime": {
+          "Asteroids.Core.dll": {}
+        }
+      },
+      "Asteroids.Models/1.0.0": {
+        "dependencies": {
+          "Asteroid.Description": "1.0.0",
+          "Asteroids.Utility": "1.0.0"
+        },
+        "runtime": {
+          "Asteroids.Models.dll": {}
+        }
+      },
+      "Asteroids.Utility/1.0.0": {
+        "runtime": {
+          "Asteroids.Utility.dll": {}
+        }
+      },
+      "Asteroids.Views/1.0.0": {
+        "dependencies": {
+          "Asteroid.Description": "1.0.0",
+          "Asteroids.Utility": "1.0.0"
+        },
+        "runtime": {
+          "Asteroids.Views.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asteroids.Controllers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asteroid.Description/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asteroids.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asteroids.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asteroids.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asteroids.Views/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

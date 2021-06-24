@@ -1,0 +1,9 @@
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\bin\Debug\netcoreapp3.1\Asteroids.Utility.deps.json
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\bin\Debug\netcoreapp3.1\Asteroids.Utility.dll
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\bin\Debug\netcoreapp3.1\Asteroids.Utility.pdb
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\obj\Debug\netcoreapp3.1\Asteroids.Utility.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\obj\Debug\netcoreapp3.1\Asteroids.Utility.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\obj\Debug\netcoreapp3.1\Asteroids.Utility.AssemblyInfoInputs.cache
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\obj\Debug\netcoreapp3.1\Asteroids.Utility.AssemblyInfo.cs
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\obj\Debug\netcoreapp3.1\Asteroids.Utility.dll
+C:\Users\vlad\Desktop\Temp\AsteroidsProject\Asteroids.Utility\obj\Debug\netcoreapp3.1\Asteroids.Utility.pdb

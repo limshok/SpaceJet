@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asteroid.Description/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Asteroids.Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Asteroid.Description.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Asteroid.Description.dll": {}
+        }
+      },
+      "Asteroids.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Asteroid.Description": "1.0.0",
+          "Asteroids.Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Asteroids.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Asteroids.Data.dll": {}
+        }
+      },
+      "Asteroids.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Asteroids.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Asteroids.Utility.dll": {}
+        }
+      },
+      "Asteroids.Views/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Asteroid.Description": "1.0.0",
+          "Asteroids.Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Asteroids.Views.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Asteroids.Views.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asteroid.Description/1.0.0": {
+      "type": "project",
+      "path": "../Asteroid.Description/Asteroid.Description.csproj",
+      "msbuildProject": "../Asteroid.Description/Asteroid.Description.csproj"
+    },
+    "Asteroids.Data/1.0.0": {
+      "type": "project",
+      "path": "../Asteroids.Data/Asteroids.Data.csproj",
+      "msbuildProject": "../Asteroids.Data/Asteroids.Data.csproj"
+    },
+    "Asteroids.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Asteroids.Utility/Asteroids.Utility.csproj",
+      "msbuildProject": "../Asteroids.Utility/Asteroids.Utility.csproj"
+    },
+    "Asteroids.Views/1.0.0": {
+      "type": "project",
+      "path": "../Asteroids.Views/Asteroids.Views.csproj",
+      "msbuildProject": "../Asteroids.Views/Asteroids.Views.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Asteroid.Description >= 1.0.0",
+      "Asteroids.Data >= 1.0.0",
+      "Asteroids.Views >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vlad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Core\\Asteroids.Core.csproj",
+      "projectName": "Asteroids.Core",
+      "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Core\\Asteroids.Core.csproj",
+      "packagesPath": "C:\\Users\\vlad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vlad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroid.Description\\Asteroid.Description.csproj": {
+              "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroid.Description\\Asteroid.Description.csproj"
+            },
+            "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Data\\Asteroids.Data.csproj": {
+              "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Data\\Asteroids.Data.csproj"
+            },
+            "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Views\\Asteroids.Views.csproj": {
+              "projectPath": "C:\\Users\\vlad\\Desktop\\Temp\\AsteroidsProject\\Asteroids.Views\\Asteroids.Views.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\vlad\\.dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
