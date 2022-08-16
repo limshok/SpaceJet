@@ -62,3 +62,11 @@ crashlytics-build.properties
 kkk/Library/
 
 kkk/Logs/
+
+kkk/obj/
+
+kkk/UserSettings/
+
+kkk/.idea/
+
+
